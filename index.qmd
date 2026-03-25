@@ -1,0 +1,31 @@
+---
+title: "Laura Derksen"
+image: avatar.jpg
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:laura.derksen@gmail.com
+    - icon: file-earmark-text
+      text: CV (PDF)
+      href: Laura-Derksen-CV.pdf
+---
+
+I am a Senior Researcher at the [Ragnar Frisch Centre for Economic Research](https://www.frisch.uio.no/) in Oslo. I am affiliated with [J-PAL](https://www.povertyactionlab.org/) as an invited researcher and the [Development Learning Lab](https://www.devlearnlab.no/).
+
+## Research Interests
+
+- Health
+- Education
+- Development
+- Information and Networks
+
+## Contact
+
+**Email:** [laura.derksen@gmail.com](mailto:laura.derksen@gmail.com)
+
+**Affiliation:**\
+Ragnar Frisch Centre for Economic Research\
+Oslo, Norway

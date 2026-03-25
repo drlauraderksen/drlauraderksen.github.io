@@ -1,0 +1,53 @@
+---
+title: "Publications"
+---
+
+### [Who Knows? Information Access and Endogenous Network Formation](https://drlauraderksen.github.io/mywebsite/WhoKnows13Nov2025.pdf)
+with Pedro Souza, conditionally accepted at *AEJ: Applied Economics*
+
+Networks play a key role in information diffusion. Yet, the impact of information on network formation is not well understood. We conducted a randomized experiment in Malawian boarding secondary schools, providing one fifth of students with exclusive access to an online information source. Using a complete panel of detailed network data, we show that changes in information access affect network structure, as students form and maintain strategic links. At the endline, treated students are more well-connected than control students. We calibrate and simulate a model of strategic network formation to demonstrate implications for network-based targeting, information diffusion, academic welfare and inequality.
+
+---
+
+### [The Lifesaving Impact of Electronic Medical Records for HIV Patients](https://doi.org/10.1162/rest.a.1617)
+with Anita McGahan and Leandro Pongeluppe, *The Review of Economics and Statistics*, 2025
+
+This paper shows that replacing paper-based records with electronic medical records (EMRs) improves HIV patient retention and prevents AIDS deaths in the low-income country of Malawi. An event study of 106 HIV clinics shows a 28 percent reduction in annual deaths five years after EMR implementation, with the greatest impact on children. Improvements in health outcomes appear due to efficiency gains, rather than to changes in the medical care provided at visits. These efficiency gains allow clinics to better manage patient data, trace lapsed patients and return them into care, and adapt to higher patient volumes over time.
+
+[Preprint](https://drlauraderksen.github.io/mywebsite/Derksen_EMRPaper.pdf) | [Code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QP8HEN) | [VoxDev](https://voxdev.org/topic/health/electronic-medical-records-save-lives) | [The Conversation](https://theconversation.com/hiv-in-malawi-digital-filing-system-saved-lives-and-boosted-care-research-274646)
+
+---
+
+### [Healthcare Appointments as Commitment Devices](https://doi.org/10.1093/ej/ueae077)
+with Jason Kerwin, Natalia Ordaz Reynoso and Olivier Sterck, *The Economic Journal*, 2024
+
+We show that ordinary appointments can act as effective substitutes for hard commitment devices and increase demand for a critical healthcare service, particularly among those with self-control problems. We show this using an experiment that randomly offered HIV testing appointments and hard commitment devices to high-risk men in Malawi. Appointments more than double testing rates, with effects concentrated among those who demand commitment. In contrast, most men who take up hard commitments lose their investments. Appointments overcome commitment problems without the potential drawback of commitment failure, and have the potential to increase demand for healthcare in the developing world.
+
+[Preprint](https://drlauraderksen.github.io/mywebsite/DKOS_Appointments_20240527.pdf) | [Replication Package](https://zenodo.org/records/13145316) | [VoxDev](https://voxdev.org/topic/health/healthcare-appointments-effective-commitment-devices-evidence-malawi)
+
+---
+
+### [Love in the Time of HIV: How Beliefs about Externalities Impact Health Behavior](https://doi.org/10.1016/j.jdeveco.2022.102993)
+with Adamson Muula and Joep van Oosterhout, *Journal of Development Economics*, 2022
+
+Despite the widespread availability of lifesaving antiretroviral drugs, demand for HIV testing is low. Antiretrovirals have a positive externality: they prevent HIV transmission. We use an experiment in Malawi to show that informing communities about this externality can shift beliefs and increase HIV testing in the short term, with a larger effect for sexually-active demographics. We also see a change in attitudes toward sexual partners taking antiretrovirals. Learning about a positive externality can increase demand for healthcare.
+
+[Preprint](https://drlauraderksen.github.io/mywebsite/DerksenLITH.pdf)
+
+---
+
+### [Restricted Access: How the Internet Can Be Used to Promote Reading and Learning](https://doi.org/10.1016/j.jdeveco.2021.102810)
+with Catherine Michaud-Leclerc and Pedro CL Souza, *Journal of Development Economics*, 2022
+
+Can schools use the internet to promote reading and learning? We provided Wikipedia access to randomly-selected students in Malawian boarding secondary schools. Students used the online resource broadly and intensively, and found it trustworthy, including for information about news and safe sex. We find a 0.10 SD impact on English exam scores, and a higher impact among low achievers (0.20 SD). Students used Wikipedia to study Biology, and exam scores increased for low achievers (0.14 SD). Our results show that by restricting internet access to a source of engaging and accessible reading material, it is possible to encourage independent reading and affect educational outcomes.
+
+[Preprint](https://drlauraderksen.github.io/mywebsite/DerksenMichaudLeclercSouza2021.pdf)
+
+---
+
+### [Health Knowledge and Non-Pharmaceutical Interventions During the COVID-19 Pandemic in Africa](https://doi.org/10.1016/j.jebo.2021.06.045)
+with Anne Fitzpatrick, Sabrin Beg, Anne Karing, Jason Kerwin, Adrienne Lucas, Natalia Ordaz Reynoso and Munir Squires, *Journal of Economic Behavior and Organization*, 2021
+
+Providing health information is a non-pharmaceutical intervention designed to reduce disease transmission and infection risk by encouraging behavior change. But does knowledge change behavior? We test whether coronavirus health knowledge promotes protective risk mitigation behaviors early in the COVID-19 pandemic across four African countries (Ghana, Malawi, Sierra Leone, and Tanzania). Despite reputations for weak health sectors and low average levels of education, health knowledge of the symptoms and transmission mechanisms was high in all countries in the two months after the virus entered the country. Higher knowledge is associated with increased protective measures that would likely lower disease risk with one exception–knowledge is inversely correlated with social distancing. Respondents largely adhered to mask mandates and lockdowns, but continued coming into contact with others at small, informal gatherings, gatherings not affected by mandates. Knowledge alone appears unlikely to reduce all risky activities, especially gatherings within other people's homes. Even early in the pandemic income loss or stress were commonly reported. Our results suggest that early and consistent government provision of health information, likely reduced the severity of the pandemic in Africa but was not a panacea.
+
+[NBER](https://www.nber.org/papers/w28316)

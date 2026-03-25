@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - Laura-Derksen-CV.pdf
+
+website:
+  title: "Laura Derksen"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Working Papers
+        href: working-papers.qmd
+      - text: CV
+        href: cv.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css

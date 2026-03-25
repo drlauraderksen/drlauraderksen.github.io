@@ -1,0 +1,4 @@
+/* Keep abstract text readable */
+.content p {
+  max-width: 800px;
+}

@@ -1,0 +1,149 @@
+---
+title: "CV"
+---
+
+*Updated March, 2026*
+
+Citizenship: Canadian, French
+
+## Education
+
+| Year | Degree | Institution |
+|------|--------|------------|
+| 2016 | PhD in Economics | London School of Economics, United Kingdom |
+| | *Thesis: "Information, social interactions and health seeking behavior"* | |
+| 2007 | MSc in Mathematics | École polytechnique fédérale de Lausanne, Switzerland |
+| | *Thesis: "Scale-free random networks"* | |
+| 2005 | BSc in Honours Mathematics | University of British Columbia, Canada |
+
+## Academic Appointments
+
+**2023–** Senior Researcher, Ragnar Frisch Centre for Economic Research, Oslo, Norway
+
+**2015–** Assistant Professor of Health Economics and Strategic Management, Department of Management (UTM), Institute for Management and Innovation and Rotman School of Management, University of Toronto, Toronto, Canada
+
+### Leave
+
+2018, 2020 — Maternity leave
+
+## Publications
+
+"Who Knows? Information Access and Endogenous Network Formation" with Pedro Souza, conditionally accepted at *AEJ: Applied Economics*.
+
+"The Lifesaving Impact of Electronic Medical Records for HIV Patients" with Anita McGahan and Leandro Pongeluppe, *The Review of Economics and Statistics*, 2025.
+
+"Healthcare Appointments as Commitment Devices" with Jason Kerwin, Natalia Ordaz Reynoso and Olivier Sterck, *The Economic Journal*, 2024.
+
+"Love in the Time of HIV: How Beliefs about Externalities Impact Health Behavior" with Adamson Muula and Joep van Oosterhout, *Journal of Development Economics*, 2022.
+
+"Restricted Access: How the Internet Can Be Used to Promote Reading and Learning" with Catherine Michaud-Leclerc and Pedro CL Souza, *Journal of Development Economics*, 2022.
+
+"Health Knowledge and Non-Pharmaceutical Interventions During the COVID-19 Pandemic in Africa" with Anne Fitzpatrick, Sabrin Beg, Anne Karing, Jason Kerwin, Adrienne Lucas, Natalia Ordaz Reynoso and Munir Squires, *Journal of Economic Behavior and Organization*, 2021.
+
+## Working Papers
+
+"Access to Online Misinformation is Not Sex Education" with Catherine Michaud-Leclerc and Ardyn Nordstrom.
+
+"The Impact of Online Reading Material in Secondary School on University Progression" with Catherine Michaud-Leclerc.
+
+## Work in Progress
+
+"Restricted Internet Use and Susceptibility to Misinformation" with Catherine Michaud-Leclerc.
+
+"Comparing poverty alleviation interventions for vulnerable children in Malawi" with Catherine Michaud-Leclerc.
+
+"Teachers Teaching Teachers: A Randomized Evaluation of Teacher Training on Inclusive Learning and Literacy in Malawian Primary Schools".
+
+## Grants and Awards (Principal Investigator)
+
+| Year | Award |
+|------|-------|
+| 2024 | Norwegian Research Council Project Development Grant |
+| 2023 | SSHRC Partnership Engage Grant: Long-Run Impact of Restricted Internet |
+| 2021 | University of Toronto Research and Scholarly Activity Fund |
+| 2020 | Rotman Institute for Gender and the Economy Research Grant |
+| 2019, 2020 | Sandra Rotman Centre for Health Sector Strategy Research Grant |
+| 2017 | Connaught Global Challenge Grant: Big Data, Local Impact, Healthy Lives |
+| 2017 | SSHRC Insight Development Grant: Information, Education and Networks |
+| 2013 | Russell Sage Foundation Small Grant in Behavioral Economics |
+| 2013 | STICERD Research Grant |
+| 2009–2012 | LSE PhD Scholarship |
+| 2009 | LSE Teaching Award |
+| 2008 | Canada National Sciences and Engineering Research Council Award |
+| 2007 | UC Berkeley Loeve Fellowship for PhD in Statistics |
+| 2001–2005 | UBC Undergraduate Scholarship and Dean's List |
+| 2001 | Canada Governor General's Academic Medal |
+
+## Conference and Seminar Presentations
+
+- 2025 Network Science in Economics Conference, Stanford University
+- 2024 Economics Seminar, Helsinki Graduate School of Economics
+- 2024 Irish Public Economics Workshop, Trinity College Dublin
+- 2024 Bergen Development Workshop, Chr. Michelsen Institute
+- 2016, 2020, 2024 Centre for the Study of African Economies Conference, Oxford University
+- 2024 Health Economics Seminar, Stockholm School of Economics
+- 2024 Invited Lecture, Meeting of the Norwegian Association for Economists
+- 2023 Oslo Development Economics Group, Oslo Metropolitan University
+- 2023 Seminar, Norwegian Institute for Social Research
+- 2023 Economics Departmental Seminar, BI Norwegian Business School
+- 2023 Economics Departmental Seminar, University of Oslo
+- 2023 EEA-ESEM Congress, Barcelona School of Economics
+- 2022, 2023 The Economics of Risky Behavior Conference
+- 2023 Stockholm Institute for Transition Economics Seminar, Stockholm School of Economics
+- 2022 Women in Empirical Microeconomics Conference, University of Chicago
+- 2022 Seminar, The Ragnar Frisch Centre for Economic Research, Oslo
+- 2022 Economics Departmental Seminar, Oslo Metropolitan University
+- 2022 Development Economics Seminar, Paris School of Economics
+- 2022 Workshop in Networks and Development, The University of Naples Federico II
+- 2022 NBER Economics of Privacy Conference
+- 2016, 2020, 2022 Pacific Development Economics Conference
+- 2021 Human Capital Initiative at the Global Development Policy Center, Boston University
+- 2021 Economics Departmental Seminar, Université Laval
+- 2021 Toronto Data Workshop, University of Toronto
+- 2019, 2021 Canadian Economics Association Conference
+- 2020 Economics Departmental Seminar, Warwick University (cancelled due to Covid)
+- 2020 SIPA Development Seminar, Columbia University
+- 2019 Economics Departmental Seminar, Simon Fraser University
+- 2019 Applied Economics Departmental Seminar, University of Minnesota
+- 2016, 2019 Advances in Field Experiments Conference, University of Chicago
+- 2019 Economics Departmental Seminar, University of Notre Dame
+- 2018 Canadian Centre for Health Economics, Toronto, Canada
+- 2018 Empirical Microeconomics of HIV/AIDS Research Meeting, Boston University
+- 2017 BC Centre for Excellence in HIV/AIDS Forefront Lecture, Vancouver, BC, Canada
+- 2016 Junior Strategy Conference, Duke University
+- 2016 Economics Departmental Seminar, Dartmouth College
+- 2016 PAA, Population Association of America, Washington DC, USA
+- 2016 Royal Economic Society Conference, University of Sussex
+- 2015 AIDS, International AIDS Society, Vancouver, Canada
+- 2015 Oxford Development Workshop, Oxford University
+
+## Referee
+
+American Economic Review, AER: Insights, Quarterly Journal of Economics, The Review of Economics and Statistics, The Economic Journal, AEJ: Applied Economics, Journal of the European Economic Association, Journal of Development Economics, Journal of Public Economics, Journal of Health Economics, Economic Development and Cultural Change, Journal of Economic Behavior and Organization, Economica, Economic Theory, Management Science, Behavioral Science and Policy, Vaccine, International Journal of Sexual Health, PLOS ONE, HIV Prevention Trials Network, Africa Journal of Management.
+
+## Professional Affiliations
+
+J-PAL Invited Researcher, Development Learning Lab (DLL), Behavioural Economics in Action at Rotman (BEAR), Schwartz Reisman Institute for Technology and Society (SRI)
+
+## Teaching Experience
+
+| Years | Course |
+|-------|--------|
+| 2016–2022 | University of Toronto: Econometrics and Managing Global Health (graduate), Strategy and Governance (undergraduate) |
+| 2009–2011 | LSE: Econometrics (graduate and undergraduate) |
+
+## Supervision and Service
+
+| Year | Role |
+|------|------|
+| 2024 | PhD adjudication committee for PhD student Ingrid Semb (Oslo) |
+| 2023–2025 | Supervisor for 3 Master's students (Oslo) |
+| 2021– | Supervisory committee for PhD student Carmen Quezada Hernandez (Toronto) |
+| 2021–2022 | UTM Institutes Equity, Diversity, and Inclusion Committee |
+| 2021–2022 | Supervisory committee for PhD student Jessica Gallant (Toronto) |
+| 2019–2020 | Supervisory committee for Master's student Gillian Davison (Toronto) |
+| 2018 | Thesis committee for PhD student Maripier Isabelle (Toronto) |
+
+## Languages
+
+English (native), French (fluent), Norwegian (B1), Chichewa (beginner)

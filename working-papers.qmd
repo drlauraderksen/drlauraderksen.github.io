@@ -1,0 +1,25 @@
+---
+title: "Working Papers"
+---
+
+### [Access to Online Misinformation is Not Sex Education](https://drlauraderksen.github.io/mywebsite/DMN_Feb2026.pdf)
+with Catherine Michaud-Leclerc and Ardyn Nordstrom
+
+Health misinformation can cause individuals to misjudge risks and lead to dangerous disease outbreaks. Expanding internet access has been shown to increase health knowledge along many dimensions. Yet, we show that in the context of the HIV/AIDS epidemic, access to online information, even restricted to a high-quality source, does not effectively counteract pervasive health misinformation. We study a randomized trial providing Wikipedia access in Malawian secondary schools. Despite intensive use, and nudges to search for correct information, nearly all students retain critical misconceptions related to pregnancy and HIV risk. Misconceptions persist and prevail for years after students gain access to the full internet. We also find limited impacts on long-run sexual behavior and attitudes. High confidence in incorrect beliefs, and distraction by other online content, appear to explain the results. Access to online information does not substitute for effective sex education, and direct information provision is likely necessary.
+
+---
+
+### The Impact of Online Reading Material in Secondary School on University Progression
+with Catherine Michaud-Leclerc
+
+Higher education has high returns in low-income countries, yet enrollment rates remain below 10 percent, partly because students lack the foundational skills needed to qualify. We study the long-run effects of a randomized intervention that promoted reading among Malawian secondary school students by providing access to online informational material (Wikipedia). Using administrative and survey data collected over several years, we find that one year of Wikipedia access raises national exam scores by 0.14 standard deviations and increases the probability of qualifying for university admission by 7.2 percentage points. Effects on exam scores are concentrated in subjects taught in English, consistent with improved English language skills as the primary mechanism. The effects are driven by low-achieving students, who are 13 percentage points more likely to qualify for university, and persist for cohorts who lost access one or two years before graduation. The intervention also increases university enrollment and attendance, with effects concentrated among low achievers and girls. These findings show that providing access to online reading material can strengthen foundational skills and expand access to higher education in low-income countries.
+
+---
+
+## Work in Progress
+
+**Restricted Internet Use and Susceptibility to Misinformation** with Femke Maes, Catherine Michaud-Leclerc and Ardyn Nordstrom
+
+**Comparing poverty alleviation interventions for vulnerable children in Malawi** with Catherine Michaud-Leclerc
+
+**Teachers Teaching Teachers: A Randomized Evaluation of Teacher Training on Inclusive Learning and Literacy in Malawian Primary Schools**
