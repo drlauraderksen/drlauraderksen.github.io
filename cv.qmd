@@ -2,7 +2,7 @@
 title: "CV"
 ---
 
-*Updated March, 2026*
+*Updated April, 2026*
 
 Citizenship: Canadian, French
 
@@ -30,7 +30,7 @@ Citizenship: Canadian, French
 
 "Who Knows? Information Access and Endogenous Network Formation" with Pedro Souza, conditionally accepted at *AEJ: Applied Economics*.
 
-"The Lifesaving Impact of Electronic Medical Records for HIV Patients" with Anita McGahan and Leandro Pongeluppe, *The Review of Economics and Statistics*, 2025.
+"The Lifesaving Impact of Electronic Medical Records for HIV Patients" with Anita McGahan and Leandro Pongeluppe, forthcoming at *The Review of Economics and Statistics*, 2025.
 
 "Healthcare Appointments as Commitment Devices" with Jason Kerwin, Natalia Ordaz Reynoso and Olivier Sterck, *The Economic Journal*, 2024.
 
@@ -42,7 +42,7 @@ Citizenship: Canadian, French
 
 ## Working Papers
 
-"Access to Online Information is Not Sex Education" with Catherine Michaud-Leclerc and Ardyn Nordstrom.
+"Access to Online Information is Not a Substitute for Sex Education" with Catherine Michaud-Leclerc and Ardyn Nordstrom.
 
 "The Impact of Online Reading Material in Secondary School on University Progression" with Catherine Michaud-Leclerc.
 
@@ -119,7 +119,7 @@ Citizenship: Canadian, French
 
 ## Referee
 
-American Economic Review, AER: Insights, Quarterly Journal of Economics, The Review of Economics and Statistics, The Economic Journal, AEJ: Applied Economics, Journal of the European Economic Association, Journal of Development Economics, Journal of Public Economics, Journal of Health Economics, Economic Development and Cultural Change, Journal of Economic Behavior and Organization, Economica, Economic Theory, Management Science, Behavioral Science and Policy, Vaccine, International Journal of Sexual Health, PLOS ONE, HIV Prevention Trials Network, Africa Journal of Management.
+American Economic Review, AER: Insights, Quarterly Journal of Economics, The Review of Economics and Statistics, The Economic Journal, AEJ: Applied Economics, Journal of the European Economic Association, Journal of Development Economics, Journal of Population Economics, Journal of Public Economics, Journal of Health Economics, Economic Development and Cultural Change, Journal of Economic Behavior and Organization, Economica, Economic Theory, Management Science, Behavioral Science and Policy, Vaccine, International Journal of Sexual Health, PLOS ONE, HIV Prevention Trials Network, Africa Journal of Management. Grants reviewer for J-PAL LAI, J-PAL EVAH, WEE-DiFine, UToronto RSAF.
 
 ## Professional Affiliations
 
@@ -136,6 +136,8 @@ J-PAL Invited Researcher, Development Learning Lab (DLL), Behavioural Economics 
 
 | Year | Role |
 |------|------|
+| 2026 | Nordic Conference in Development Economics Committee |
+| 2025–2027 | J-PAL LAI African Scholar Mentor |
 | 2024 | PhD adjudication committee for PhD student Ingrid Semb (Oslo) |
 | 2023–2025 | Supervisor for 3 Master's students (Oslo) |
 | 2021– | Supervisory committee for PhD student Carmen Quezada Hernandez (Toronto) |
