@@ -13,7 +13,9 @@ about:
       href: Laura-Derksen-CV.pdf
 ---
 
-I am a Senior Researcher at the [Ragnar Frisch Centre for Economic Research](https://www.frisch.uio.no/) in Oslo. I am affiliated with [J-PAL](https://www.povertyactionlab.org/) as an invited researcher and the [Development Learning Lab](https://www.devlearnlab.no/).
+I am a Senior Researcher at the [Ragnar Frisch Centre for Economic Research](https://www.frischsenteret.no/) in Oslo. 
+
+I am an invited researcher at [J-PAL](https://www.povertyactionlab.org/) and an affiliate of the [Development Learning Lab](https://www.devlearnlab.no/).
 
 ## Research Interests
 
@@ -27,5 +29,5 @@ I am a Senior Researcher at the [Ragnar Frisch Centre for Economic Research](htt
 **Email:** [laura.derksen@gmail.com](mailto:laura.derksen@gmail.com)
 
 **Affiliation:**\
-Ragnar Frisch Centre for Economic Research\
+[Ragnar Frisch Centre for Economic Research](https://www.frischsenteret.no/)\
 Oslo, Norway

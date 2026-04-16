@@ -1,3 +1,5 @@
 /_site/
 /.quarto/
 .hugo_build.lock
+
+**/*.quarto_ipynb
