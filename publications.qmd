@@ -3,7 +3,7 @@ title: "Publications"
 ---
 
 ### [Who Knows? Information Access and Endogenous Network Formation](https://www.aeaweb.org/articles?id=10.1257/app.20230126&&from=f)
-with Pedro Souza, forthcoming at *AEJ: Applied Economics*
+with Pedro CL Souza, forthcoming at *AEJ: Applied Economics*
 
 Networks play a key role in information diffusion. Yet, the impact of information on network formation is not well understood. We conducted a randomized experiment in Malawian boarding secondary schools, providing one fifth of students with exclusive access to an online information source. Using a complete panel of detailed network data, we show that changes in information access affect network structure, as students form and maintain strategic links. At the endline, treated students are more well-connected than control students. We calibrate and simulate a model of strategic network formation to demonstrate implications for network-based targeting, information diffusion, academic welfare and inequality.
 
