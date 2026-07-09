@@ -3,6 +3,7 @@ project:
   output-dir: _site
   resources:
     - Laura-Derksen-CV.pdf
+    - Derksen-Michaud-Leclerc-2026.pdf
 
 website:
   title: "Laura Derksen"

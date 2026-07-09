@@ -9,10 +9,10 @@ Health misinformation can cause individuals to misjudge risks and lead to danger
 
 ---
 
-### The Impact of Online Reading Material in Secondary School on University Progression
+### [The Impact of Online Reading Material in Secondary School on University Progression](Derksen-Michaud-Leclerc-2026.pdf)
 with Catherine Michaud-Leclerc
 
-Despite its importance for development, enrollment in higher education is low in low-income countries, in part due to poor learning outcomes in school. We study the long-run effects of a randomized intervention that promotes reading among Malawian students through access to online information (Wikipedia). One year of access raises later national exam scores by 0.14 standard deviations, increases the probability of qualifying for university by 7.2 percentage points, and doubles university enrollment, with effects concentrated among low achievers and girls. The effect grows over time after the intervention ends, consistent with dynamic complementarities from English proficiency.
+Secondary schools in low-income countries often lack the resources to prepare students to progress to higher education. We study the long-run effects of a randomized intervention that promotes reading among Malawian students through access to online information (Wikipedia). One year of access raises later national exam scores by 0.14 standard deviations, increases the probability of qualifying for university by 7.2 percentage points, and doubles university enrollment, with effects concentrated among low achievers and girls. The effect grows over time after the intervention ends, consistent with dynamic complementarities from English proficiency.
 
 ---
 
