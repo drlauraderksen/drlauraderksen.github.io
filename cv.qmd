@@ -28,7 +28,9 @@ Citizenship: Canadian, French
 
 ## Publications
 
-"Who Knows? Information Access and Endogenous Network Formation" with Pedro Souza, conditionally accepted at *AEJ: Applied Economics*.
+"Online Information is Not Sex Education: Evidence from a Wikipedia Access Experiment in Malawi" with Catherine Michaud-Leclerc and Ardyn Nordstrom, conditionally accepted at *Journal of Health Economics*.
+
+"Who Knows? Information Access and Endogenous Network Formation" with Pedro Souza, forthcoming at *AEJ: Applied Economics*.
 
 "The Lifesaving Impact of Electronic Medical Records for HIV Patients" with Anita McGahan and Leandro Pongeluppe, forthcoming at *The Review of Economics and Statistics*, 2025.
 
@@ -41,8 +43,6 @@ Citizenship: Canadian, French
 "Health Knowledge and Non-Pharmaceutical Interventions During the COVID-19 Pandemic in Africa" with Anne Fitzpatrick, Sabrin Beg, Anne Karing, Jason Kerwin, Adrienne Lucas, Natalia Ordaz Reynoso and Munir Squires, *Journal of Economic Behavior and Organization*, 2021.
 
 ## Working Papers
-
-"Access to Online Information is Not a Substitute for Sex Education" with Catherine Michaud-Leclerc and Ardyn Nordstrom.
 
 "The Impact of Online Reading Material in Secondary School on University Progression" with Catherine Michaud-Leclerc.
 
