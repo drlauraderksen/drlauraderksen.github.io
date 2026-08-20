@@ -2,6 +2,13 @@
 title: "Publications"
 ---
 
+### [Online Information is Not Sex Education: Evidence from a Wikipedia Access Experiment in Malawi](Derksen-Michaud-Leclerc-Nordstrom-2026.pdf)
+with Catherine Michaud-Leclerc and Ardyn Nordstrom, conditionally accepted at *Journal of Health Economics*
+
+Health misinformation can cause individuals to misjudge risks and lead to dangerous disease outbreaks. Expanding internet access has been shown to increase health knowledge along many dimensions. Yet, we show that in the context of the HIV/AIDS epidemic, simply providing access to a high-quality online source does not effectively counteract pervasive health misinformation. We study a randomized trial providing Wikipedia access in Malawian secondary schools. Despite intensive use, and soft nudges to search for correct information, nearly all students retain critical misconceptions related to pregnancy and HIV risk. Misconceptions persist and prevail for years after students gain access to the full internet. We also find limited impacts on long-run sexual behavior and attitudes. High confidence in incorrect beliefs, and distraction by other online content, may help explain the results. In this setting, access to a high-quality online source does not substitute for effective sex education, and direct information provision may be necessary.
+
+---
+
 ### [Who Knows? Information Access and Endogenous Network Formation](https://www.aeaweb.org/articles?id=10.1257/app.20230126&&from=f)
 with Pedro CL Souza, forthcoming at *AEJ: Applied Economics*
 
